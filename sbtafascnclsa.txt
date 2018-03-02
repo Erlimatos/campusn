@@ -1,0 +1,7 @@
+Criar host linux
+Instalar serviços http\s
+Criar conta github
+Postar proj git
+criar tab mysql
+Criar scritp publica,
+Criar api [curric]

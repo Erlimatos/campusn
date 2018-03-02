@@ -1,0 +1,21 @@
+- Implemente um sistema, com as seguintes características.
+
+ * Responda para o endereço avaliacao.com.
+
+ * Esse site deve responder em HTTPS e se chamado em HTTP, ser redirecionado para HTTPS.
+
+ * A funcionalidade do sistema deve ser uma API para cadastrar e consultar os dados do seu currículo.
+
+ * As ações com a API deve ser feita de forma autenticada.
+
+ * Você deve incluir a configuração para criar um servidor virtual local, que irá atender essa API.
+
+ * implementações em PHP terão avaliação negativa.
+
+ * encaminhe um script "push to start", que será o responsável por configurar o servidor, e subir a aplicação.
+
+ * Utilize uma imagem padrão, só com o sistema operacional do tipo Linux, que deve ser baixada no momento de configuração.
+
+Compartilhe um projeto no Github, contendo todos os procedimentos, código, script e etc para reproduzir a habilidade do sistema.
+
+Se desejar compartilhar o projeto de forma privada, compartilhe com o usuário ernestothorp.
