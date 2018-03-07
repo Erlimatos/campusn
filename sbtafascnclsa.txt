@@ -1,4 +1,4 @@
-Criar host linux
+Criar host linux ak
 Instalar serviços http\s
 Criar conta github
 Postar proj git
